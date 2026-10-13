@@ -8,3 +8,4 @@ for s in suhu:
         print(f"Suhu: {s}°C | Curah hujan: {h} mm")
         print(f"Prediksi hasil panen: {hasil_panen:.2f} ton/hektar")
         print("-" * 40)
+#halo sayangggg 
